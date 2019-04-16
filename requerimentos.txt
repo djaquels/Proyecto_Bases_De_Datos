@@ -1,0 +1,13 @@
+-- Creacion de base de datos (listo)
+-- Creacion de Tablas (listo)
+-- Llaves Foraneas y primarias (listo)
+-- Creacion de Reglas, Constraints o defaults
+integridad de dominio y/o reglas de negocio (pendiente)
+-- Alta de 10 registros a las tablas (pendiente)
+-- Creacion de índices (pendiente)
+-- Procedimiento almacenado sp_inserta (pendiente)
+-- Procedimiento almacenado sp_actualiza (pendiente)
+-- Procedimiento almacenado sp_borra (pendiente)
+-- Triggers (pendiente)
+-- Creacion de consultas que satisfagan las hoja
+de requerimientos (pendiente)
