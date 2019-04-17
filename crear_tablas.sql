@@ -39,7 +39,7 @@ create table Trabaja_En(id_editorial char(5), id_escritor char(5), fecha_contrat
  foreign key (id_escritor) references Escritores(id_escritor)
 )
 
-create table Suscripciones(id_susc char(5), id_publicacion char(5), folio int , fecha_inicial Date, duracion Time,
+create table Suscripciones(id_susc char(5), id_publicacion char(5), folio int , fecha_inicial Date, duracion int,
  primary key(id_susc,id_publicacion,folio),
  foreign key (id_susc) references Suscriptores(id_susc),
  foreign key (id_publicacion) references Publicaciones(id_publicacion)
