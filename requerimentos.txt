@@ -3,11 +3,11 @@
 -- Llaves Foraneas y primarias (listo)
 -- Creacion de Reglas, Constraints o defaults
 integridad de dominio y/o reglas de negocio (pendiente)
--- Alta de 10 registros a las tablas (pendiente)
--- Creacion de índices (pendiente)
+-- Alta de 10 registros a las tablas (listo)
+-- Creacion de índices (listo)
 -- Procedimiento almacenado sp_inserta (listo)
 -- Procedimiento almacenado sp_actualiza (listo)
 -- Procedimiento almacenado sp_borra (listo)
--- Triggers (pendiente)
+-- Triggers (listo)
 -- Creacion de consultas que satisfagan las hoja
 de requerimientos (listo)
